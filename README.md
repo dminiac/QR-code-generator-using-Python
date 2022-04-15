@@ -1,7 +1,6 @@
 # QR-code-generator
 ![](https://img.shields.io/github/languages/top/Prince2347X/qr-code-generator)
-![](https://img.shields.io/github/last-commit/Prince2347X/qr-code-generator)
-[![](https://img.shields.io/badge/By-Prince%20Raj-yellowgreen)](https://twitter.com/prince2347x)
+
 ##### A simple python program to generate and display QR Code.
 
 
@@ -22,4 +21,4 @@
     - The QR Code is also saved in .png format (Using `pypng` module.)
   - And also used `tkinter` and `Pillow` to display the QR Code at the time of code execution.
   
-> Feel free to [create an issue](https://github.com/Prince2347X/qr-code-generator/issues/new) if you're facing any error(s).
+> Feel free to reach back to me via an email: choudharyashish621@gmail.com
