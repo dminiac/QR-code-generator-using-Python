@@ -6,7 +6,7 @@
 
 ### Steps to Setup:
  - **On Desktop:**
-   1. Clone this repo by running `git clone https://github.com/Prince2347X/qr-code-generator.git` in the terminal.
+   1. Clone this repo by running `git clone https://github.com/dminiac/QR-code-generator-using-Python.git in the terminal.
    2. Install the required packages in one go simply by running `pip install -r requirements.txt`.
       - Make sure you're in the correct directory.
    3. Run the [qr_code_gen.py](/qr_code_gen.py) file.
